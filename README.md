@@ -28,7 +28,7 @@ The datasets are available in the folder Datasets on the GitHub page. We chose R
 | Team                   | Team name abreviation
 | Pos                    | Position abbreviation
 | Age                    | Number of years lived
-| G                      | Number of games played
+| G (Games)              | Number of games played
 | AB (At bat)            | Number of bats
 | R (Run)                | Number of runs scored
 | H (Hit)                | Number of hits
