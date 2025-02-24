@@ -48,6 +48,7 @@
 | OPS (On-base plus Slugging) | Combination of on-base percentage and slugging percentage
 
 Positions: 1B	- First Base, 2B - Second Base, 3B - Third Base, C -	Catcher, DH - Designated Hitter, OF -	Outfield, SS -	Shortstop
+
 Teams: ARI - Arizona Diamondbacks, ATL - Atlanta Braves, BAL - Baltimore Orioles, BOS - Boston Red Sox, CHC - Chicago Cubs, CWS - Chicago White Sox, 
 CIN - Cincinnati Reds, CLE - Cleveland Indians, COL - Colorado Rockies, DET - Detroit Tigers, FLA - Florida Marlins, HOU - Houston Astros, KAN - Kansas City Royals,
 LAA - Los Angeles Angels of Anaheim, LAD - Los Angeles Dodgers, MIL - Milwaukee Brewers, MIN - Minnesota Twins, NYM - New York Mets, NYY - New York Yankees,
