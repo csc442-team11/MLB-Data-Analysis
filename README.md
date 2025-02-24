@@ -22,4 +22,5 @@
 
 ## References 
 [2023 MLB Stats](https://www.rotowire.com/baseball/stats.php?season=2023 )
-[2024 MLB Stats]([https://www.rotowire.com/baseball/stats.php?season=2023](https://www.rotowire.com/baseball/stats.php?season=2024 )
+
+[2024 MLB Stats](https://www.rotowire.com/baseball/stats.php?season=2024 )
