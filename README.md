@@ -20,6 +20,12 @@
 - 2024 Dirty MLB Batter Stats
 - Merged MLB Batter Stats
 
+## Data Dictionary
+- Player: Baseball player's first and last name
+- Team: Baseball player's team name abreviation
+- Position (Pos): 
+
+
 ## References 
 [2023 MLB Stats](https://www.rotowire.com/baseball/stats.php?season=2023 )
 
